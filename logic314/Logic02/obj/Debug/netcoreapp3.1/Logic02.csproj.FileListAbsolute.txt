@@ -1,0 +1,14 @@
+C:\BATCH_314\LOGIC\logic314\logic314\Logic02\bin\Debug\netcoreapp3.1\Logic02.exe
+C:\BATCH_314\LOGIC\logic314\logic314\Logic02\bin\Debug\netcoreapp3.1\Logic02.deps.json
+C:\BATCH_314\LOGIC\logic314\logic314\Logic02\bin\Debug\netcoreapp3.1\Logic02.runtimeconfig.json
+C:\BATCH_314\LOGIC\logic314\logic314\Logic02\bin\Debug\netcoreapp3.1\Logic02.runtimeconfig.dev.json
+C:\BATCH_314\LOGIC\logic314\logic314\Logic02\bin\Debug\netcoreapp3.1\Logic02.dll
+C:\BATCH_314\LOGIC\logic314\logic314\Logic02\bin\Debug\netcoreapp3.1\Logic02.pdb
+C:\BATCH_314\LOGIC\logic314\logic314\Logic02\obj\Debug\netcoreapp3.1\Logic02.csproj.AssemblyReference.cache
+C:\BATCH_314\LOGIC\logic314\logic314\Logic02\obj\Debug\netcoreapp3.1\Logic02.GeneratedMSBuildEditorConfig.editorconfig
+C:\BATCH_314\LOGIC\logic314\logic314\Logic02\obj\Debug\netcoreapp3.1\Logic02.AssemblyInfoInputs.cache
+C:\BATCH_314\LOGIC\logic314\logic314\Logic02\obj\Debug\netcoreapp3.1\Logic02.AssemblyInfo.cs
+C:\BATCH_314\LOGIC\logic314\logic314\Logic02\obj\Debug\netcoreapp3.1\Logic02.csproj.CoreCompileInputs.cache
+C:\BATCH_314\LOGIC\logic314\logic314\Logic02\obj\Debug\netcoreapp3.1\Logic02.dll
+C:\BATCH_314\LOGIC\logic314\logic314\Logic02\obj\Debug\netcoreapp3.1\Logic02.pdb
+C:\BATCH_314\LOGIC\logic314\logic314\Logic02\obj\Debug\netcoreapp3.1\Logic02.genruntimeconfig.cache

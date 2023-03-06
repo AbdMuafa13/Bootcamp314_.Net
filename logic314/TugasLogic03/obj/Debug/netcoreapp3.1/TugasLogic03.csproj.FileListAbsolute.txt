@@ -1,0 +1,14 @@
+C:\BATCH_314\LOGIC\logic314\logic314\TugasLogic03\bin\Debug\netcoreapp3.1\TugasLogic03.exe
+C:\BATCH_314\LOGIC\logic314\logic314\TugasLogic03\bin\Debug\netcoreapp3.1\TugasLogic03.deps.json
+C:\BATCH_314\LOGIC\logic314\logic314\TugasLogic03\bin\Debug\netcoreapp3.1\TugasLogic03.runtimeconfig.json
+C:\BATCH_314\LOGIC\logic314\logic314\TugasLogic03\bin\Debug\netcoreapp3.1\TugasLogic03.runtimeconfig.dev.json
+C:\BATCH_314\LOGIC\logic314\logic314\TugasLogic03\bin\Debug\netcoreapp3.1\TugasLogic03.dll
+C:\BATCH_314\LOGIC\logic314\logic314\TugasLogic03\bin\Debug\netcoreapp3.1\TugasLogic03.pdb
+C:\BATCH_314\LOGIC\logic314\logic314\TugasLogic03\obj\Debug\netcoreapp3.1\TugasLogic03.csproj.AssemblyReference.cache
+C:\BATCH_314\LOGIC\logic314\logic314\TugasLogic03\obj\Debug\netcoreapp3.1\TugasLogic03.GeneratedMSBuildEditorConfig.editorconfig
+C:\BATCH_314\LOGIC\logic314\logic314\TugasLogic03\obj\Debug\netcoreapp3.1\TugasLogic03.AssemblyInfoInputs.cache
+C:\BATCH_314\LOGIC\logic314\logic314\TugasLogic03\obj\Debug\netcoreapp3.1\TugasLogic03.AssemblyInfo.cs
+C:\BATCH_314\LOGIC\logic314\logic314\TugasLogic03\obj\Debug\netcoreapp3.1\TugasLogic03.csproj.CoreCompileInputs.cache
+C:\BATCH_314\LOGIC\logic314\logic314\TugasLogic03\obj\Debug\netcoreapp3.1\TugasLogic03.dll
+C:\BATCH_314\LOGIC\logic314\logic314\TugasLogic03\obj\Debug\netcoreapp3.1\TugasLogic03.pdb
+C:\BATCH_314\LOGIC\logic314\logic314\TugasLogic03\obj\Debug\netcoreapp3.1\TugasLogic03.genruntimeconfig.cache

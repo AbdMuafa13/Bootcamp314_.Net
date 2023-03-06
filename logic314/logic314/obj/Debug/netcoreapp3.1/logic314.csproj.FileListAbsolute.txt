@@ -1,0 +1,14 @@
+C:\BATCH_314\LOGIC\logic314\logic314\logic314\bin\Debug\netcoreapp3.1\logic314.exe
+C:\BATCH_314\LOGIC\logic314\logic314\logic314\bin\Debug\netcoreapp3.1\logic314.deps.json
+C:\BATCH_314\LOGIC\logic314\logic314\logic314\bin\Debug\netcoreapp3.1\logic314.runtimeconfig.json
+C:\BATCH_314\LOGIC\logic314\logic314\logic314\bin\Debug\netcoreapp3.1\logic314.runtimeconfig.dev.json
+C:\BATCH_314\LOGIC\logic314\logic314\logic314\bin\Debug\netcoreapp3.1\logic314.dll
+C:\BATCH_314\LOGIC\logic314\logic314\logic314\bin\Debug\netcoreapp3.1\logic314.pdb
+C:\BATCH_314\LOGIC\logic314\logic314\logic314\obj\Debug\netcoreapp3.1\logic314.csproj.AssemblyReference.cache
+C:\BATCH_314\LOGIC\logic314\logic314\logic314\obj\Debug\netcoreapp3.1\logic314.GeneratedMSBuildEditorConfig.editorconfig
+C:\BATCH_314\LOGIC\logic314\logic314\logic314\obj\Debug\netcoreapp3.1\logic314.AssemblyInfoInputs.cache
+C:\BATCH_314\LOGIC\logic314\logic314\logic314\obj\Debug\netcoreapp3.1\logic314.AssemblyInfo.cs
+C:\BATCH_314\LOGIC\logic314\logic314\logic314\obj\Debug\netcoreapp3.1\logic314.csproj.CoreCompileInputs.cache
+C:\BATCH_314\LOGIC\logic314\logic314\logic314\obj\Debug\netcoreapp3.1\logic314.dll
+C:\BATCH_314\LOGIC\logic314\logic314\logic314\obj\Debug\netcoreapp3.1\logic314.pdb
+C:\BATCH_314\LOGIC\logic314\logic314\logic314\obj\Debug\netcoreapp3.1\logic314.genruntimeconfig.cache
